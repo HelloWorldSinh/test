@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\hoctap\\C#\\WinForm - Copy\\WindowsFormsApp1\\",
+  "WorkspaceRootPath": "D:\\hoctap\\C#\\WinForm - Copy\\abc\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{801AD89A-838B-434E-A2B7-255D2704F1FE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\hoctap\\c#\\winform - copy\\windowsformsapp1\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{801AD89A-838B-434E-A2B7-255D2704F1FE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|d:\\hoctap\\c#\\winform - copy\\abc\\windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{801AD89A-838B-434E-A2B7-255D2704F1FE}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\hoctap\\C#\\WinForm - Copy\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs",
+              "DocumentMoniker": "D:\\hoctap\\C#\\WinForm - Copy\\abc\\WindowsFormsApp1\\Form1.cs",
               "RelativeDocumentMoniker": "WindowsFormsApp1\\Form1.cs",
-              "ToolTip": "D:\\hoctap\\C#\\WinForm - Copy\\WindowsFormsApp1\\WindowsFormsApp1\\Form1.cs [Design]",
+              "ToolTip": "D:\\hoctap\\C#\\WinForm - Copy\\abc\\WindowsFormsApp1\\Form1.cs [Design]",
               "RelativeToolTip": "WindowsFormsApp1\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T02:41:18.546Z",
